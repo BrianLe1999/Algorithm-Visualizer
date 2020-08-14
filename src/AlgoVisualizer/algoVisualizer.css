@@ -1,0 +1,41 @@
+.title {
+  color: red; /* pink */
+  text-align: center;
+  font-size: 26px;
+}
+.array-graph{
+  justify-content: center;
+  position: relative;
+}
+.array-bar {
+  display: inline-block;
+  margin: 0 1px;
+  background-color: #add8e6; /*light- blue */
+}
+.selections {
+  width: 100%;
+}
+.type-selections {
+  width: 80%;
+}
+.selection {
+  margin-top: 10px;
+  width: 100%;
+}
+.buttons {
+  width: 100%;
+  margin-top: 10px;
+  display: flex;
+}
+.col {
+  width: 25%;
+}
+
+.button {
+  width: 50%;
+}
+.btn{
+  width: 60%;
+  margin-left: 10px;
+  margin-right: 20px;
+}
